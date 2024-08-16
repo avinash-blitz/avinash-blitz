@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Avinash
-- 👀 I’m interested in almost anythong
-- 💞️ I’m looking to collaborate on machine learning projects
+- 👀 I’m interested in almost anything
+- 💞️ I’m looking to collaborate...
 - ⚡ Fun fact: ...
 Q. How did the first program die?
 A. It was executed.
